@@ -1,1 +1,15 @@
-/* You can add global styles to this file, and also import other style files */
+
+.header, .menu, .details, .footer {
+    margin: 10px;
+    text-align: center;
+    font-size: 25px;
+  }
+  
+  .row {
+    display: flex;
+  }
+  
+  .menu, .details {
+    flex: 1;
+  }
+  

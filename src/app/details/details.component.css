@@ -1,0 +1,9 @@
+.details{
+    background-color: #ffffaf;
+    width: 580px;
+    height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
